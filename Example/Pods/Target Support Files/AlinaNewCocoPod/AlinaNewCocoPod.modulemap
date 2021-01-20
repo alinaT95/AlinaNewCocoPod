@@ -1,0 +1,6 @@
+framework module AlinaNewCocoPod {
+  umbrella header "AlinaNewCocoPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

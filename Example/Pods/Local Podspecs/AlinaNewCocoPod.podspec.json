@@ -1,0 +1,22 @@
+{
+  "name": "AlinaNewCocoPod",
+  "version": "0.1.0",
+  "summary": "A short description of AlinaNewCocoPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/alinaT95/AlinaNewCocoPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "alinaT95": "alina.t@tonlabs.io"
+  },
+  "source": {
+    "git": "https://github.com/alinaT95/AlinaNewCocoPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "AlinaNewCocoPod/Classes/**/*"
+}
